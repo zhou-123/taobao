@@ -8,12 +8,19 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@vue/cli-service": "^3.0.0-rc.8",
     "axios": "^0.18.0",
     "element-ui": "^2.4.4",
+    "enhanced-resolve": "^4.1.0",
+    "font-awesome": "^4.7.0",
+    "iview": "^2.14.3",
     "jquery": "^3.3.1",
     "moment": "^2.22.2",
     "vue": "^2.5.16",
-    "vue-router": "^3.0.1"
+    "vue-cli": "^2.9.6",
+    "vue-product-zoomer": "^2.0.10",
+    "vue-router": "^3.0.1",
+    "webpack": "^4.16.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-rc.5",
